@@ -1,0 +1,36 @@
+commit 8a185c8ae031499bf8653d44452e194829d38068 (HEAD -> master, origin/master, bug3)
+Author: Iva Makenadjieva <iva.makena@gmail.com>
+Date:   Tue Mar 28 08:36:16 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit d46eb7e419bfb22480b06c714bd15df6ee2cf10b
+Merge: 5fd573e 428bad5
+Author: Iva Makenadjieva <iva.makena@gmail.com>
+Date:   Tue Mar 28 10:06:14 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 428bad5fc1381a211f50fe5e9c94ab5d736c900f (origin/bug2, bug2)
+Author: Iva Makenadjieva <iva.makena@gmail.com>
+Date:   Tue Mar 28 08:09:20 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 5fd573eb4617b147564bba0dca8fda58ae21f1a0 (origin/bug1, bug1)
+Author: Iva Makenadjieva <iva.makena@gmail.com>
+Date:   Tue Mar 28 07:58:20 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 9a131c7ab3369ac40fbcc09faa8091fb397ee014
+Author: Iva Makenadjieva <iva.makena@gmail.com>
+Date:   Mon Mar 27 15:52:19 2023 +0200
+
+    Add java class
+
+commit 6cbe6687cae0f7eb2003ce4633c8cf04a492d4d4
+Author: Iva Makenadjieva <iva.makena@gmail.com>
+Date:   Mon Mar 27 15:18:42 2023 +0200
+
+    Initial commit
